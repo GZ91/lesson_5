@@ -19,4 +19,4 @@ jobs:
           mkdir install
           cmake .. -DCMAKE_INSTALL_PREFIX=install
           cmake --build . --target install
-          ./install/bin/lesson_5.exe
+          .\install\bin\lesson_5.exe
