@@ -9,7 +9,6 @@ public:
 	virtual ~IStatistics() = default;
 	virtual double get_indicator()const = 0;
 	virtual std::string get_name_indicator()const = 0;
-
 protected:
 	std::list<long long> *indicators;
 };
