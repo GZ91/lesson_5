@@ -1,0 +1,7 @@
+-----------result statistics-----------
+Min:0
+Max:10
+Mean:5
+Std:3.162277
+Pct90:9
+Pct95:10
